@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@firebase/app": "^0.9.1",
+    "@firebase/auth": "^0.21.1",
+    "@firebase/firestore": "^3.8.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
     "firestore": "^1.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-firebase-auth-hooks": "^1.0.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-query": "^3.39.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
